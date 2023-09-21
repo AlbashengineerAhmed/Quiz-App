@@ -1,12 +1,12 @@
 # Quick Quiz - Test Your Knowledge!
 
-![Quick Quiz Screenshot](insert-screenshot-url-here)
+![Quick Quiz Screenshot](https://github.com/AlbashengineerAhmed/Quiz-App/blob/main/Screenshot%202023-09-21%20232432.png)
 
 Welcome to Quick Quiz, a fun and engaging quiz game built with HTML, CSS, and JavaScript. Challenge your knowledge and compete for the highest score against the clock!
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Demo](https://albashengineerahmed.github.io/Quiz-App)
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -15,12 +15,12 @@ Welcome to Quick Quiz, a fun and engaging quiz game built with HTML, CSS, and Ja
 
 ## Demo
 
-🔗 Check out the live demo: [Quick Quiz Demo](https://your-demo-url.com)
+🔗 Check out the live demo: [Quick Quiz Demo](https://albashengineerahmed.github.io/Quiz-App)
 
 ## Features
 
 - 🧠 Diverse quiz questions to test your knowledge.
-- ⏰ Time-based game play to keep you on your toes.
+- ⏰ Time-based gameplay to keep you on your toes.
 - 🏆 High score tracking to compete with friends.
 - 🌐 Responsive design for seamless play on any device.
 
